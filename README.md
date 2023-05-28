@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![model](mechanics%20exp-10.1.png)
 
 ### Output:
+![model](mechanics%20exp-10.2.png)
 
 
-### Name:
-### Register Number:
+### Name: Gumma Dileep kumar
+### Register Number: 212222240032
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
