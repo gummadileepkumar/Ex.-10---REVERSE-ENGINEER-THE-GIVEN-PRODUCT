@@ -31,10 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![model](mechanics%20exp-10.1.png)
+![model](mechanics_exp_10.1.jpg)
 
 ### Output:
-![model](mechanics%20exp-10.2.png)
+![model](mechanics_exp_10.2.png)
 
 
 ### Name: Gumma Dileep kumar
